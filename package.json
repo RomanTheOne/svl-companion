@@ -1,0 +1,19 @@
+{
+  "name": "svlservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "svlservice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node svlservice.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4",
+    "jira-client": "^6.4.0",
+    "request": "^2.81.0",
+    "websocket": "^1.0.24"
+  }
+}
